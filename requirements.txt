@@ -1,3 +1,5 @@
 datasets
 networkx
 tqdm
+pyvis
+plotly
