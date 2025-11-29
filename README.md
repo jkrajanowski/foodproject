@@ -24,6 +24,10 @@ Switch between:
 
 Both node color and node size change according to the selected mode.
 
+### Ingredient Graph View
+![Popularity Mode](assets/screenshots/popularity_view.png)
+![Calories Mode](assets/screenshots/calories_view.png)
+
 ### Graph Controls
 A control panel is auto-injected into the generated HTML file. It provides:
 - Ingredient search bar
